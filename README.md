@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jenldev&show_icons=true&count_private=true)
-
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jenldev&show_icons=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage)
 <!--
 **JenLDev/JenLDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
